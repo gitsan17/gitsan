@@ -5,6 +5,8 @@
   <version>0.0.1-SNAPSHOT</version>
   
   <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
+
+<!-- Test the git-->
    <dependencies>
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
